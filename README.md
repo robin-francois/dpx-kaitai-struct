@@ -1,2 +1,2 @@
 # dpx-kaitai-struct
-Kaitai Struct YAML file to handle DPX files
+Unfinished and partial Kaitai Struct YAML file to parse DPX files with Kaitai
